@@ -16,8 +16,8 @@ function App() {
         <Container className='bg-primary rounded p-3'>
           <Row>
             <Col xs={9}>
-              <h3 className='text-start'>Hello! I'm Jake</h3>
-              <h5 className='text-start'>I am a second year software engineering student at the University of Ottawa, and I am currently enrolled in a UI design course. My goal is to have a properly established UI workflow by the end of the course, which will benefit me in all of my future projects.</h5>
+              <h3>Hello! I'm Jake</h3>
+              <h5 style={{ textAlign: 'left' }} >I am a second year software engineering student at the University of Ottawa, and I am currently enrolled in a UI design course. My goal is to have a properly established UI workflow by the end of the course, which will benefit me in all of my future projects.</h5>
             </Col>
             <Col>
               <Image src='/jake.jpeg' rounded fluid></Image>
