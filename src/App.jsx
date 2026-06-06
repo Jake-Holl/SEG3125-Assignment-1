@@ -28,13 +28,13 @@ function App() {
         <Container>
           <Row className='g-2'>
             <Col>
-              <Link to='/soon' className='text-decoration-none text-body'>
+              <Link to='https://seg-3125-assignment-2-woad.vercel.app/' className='text-decoration-none text-body'>
                 <Card bg='primary'>
                   <Card.Img className='rounded p-1' variant='top' src='/service.jpg' />
                   <Card.Body>
-                    <Card.Title>Service Site</Card.Title>
+                    <Card.Title>The Shop</Card.Title>
                     <Card.Text>
-                      This project is coming soon
+                      Barber Shop Website for Assignment 2
                     </Card.Text>
                   </Card.Body>
                 </Card>
