@@ -41,13 +41,13 @@ function App() {
               </Link>
             </Col>
             <Col>
-              <Link to='/soon' className='text-decoration-none text-body'>
+              <Link to='https://seg-3125-assignment-3.vercel.app/' className='text-decoration-none text-body'>
                 <Card bg='primary'>
                   <Card.Img className='rounded p-1' variant='top' src='/memgame.jpg' />
                   <Card.Body>
-                    <Card.Title>Memory Game</Card.Title>
+                    <Card.Title>QuickMaths</Card.Title>
                     <Card.Text>
-                      This project is coming soon
+                      Memory Game Website for Assignment 3
                     </Card.Text>
                   </Card.Body>
                 </Card>
